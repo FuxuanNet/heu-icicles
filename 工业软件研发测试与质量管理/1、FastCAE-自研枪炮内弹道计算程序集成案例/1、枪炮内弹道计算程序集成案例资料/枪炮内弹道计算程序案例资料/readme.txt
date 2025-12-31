@@ -1,0 +1,2 @@
+case文件夹为计算完成的一个算例，M99.diso为对应的工程文件
+solver为求解器文件夹，InteriorBallisticAnalysis.exe为求解器
